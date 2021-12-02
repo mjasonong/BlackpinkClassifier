@@ -14,4 +14,5 @@ Technologies used in this project:
 3. OpenCV
 4. Matplotlib & Seaborn
 5. Tensorflow for model building
-6. Jupyter notebook, PyCharm as IDE
+6. Convolutional Neural Netwrok
+7. Jupyter notebook, PyCharm as IDE
