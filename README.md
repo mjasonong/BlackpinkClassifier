@@ -1,5 +1,3 @@
-# BlackpinkClassifier
-
 In this data science and deep learning project, we classify and recognize faces of Blackpink members. Blackpink is a famous South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa.
 
 Here is the folder structure:
