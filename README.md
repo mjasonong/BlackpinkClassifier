@@ -16,3 +16,7 @@ Technologies used in this project:
 5. Tensorflow for model building
 6. Convolutional Neural Netwrok
 7. Jupyter notebook, PyCharm as IDE
+
+
+https://user-images.githubusercontent.com/45676473/144702985-c02ed6b0-dc6b-4cb3-8c96-5ab0a8c9d9ac.mp4
+
