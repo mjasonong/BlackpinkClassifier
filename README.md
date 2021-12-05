@@ -5,7 +5,7 @@ In this data science and deep learning project, we classify and recognize faces 
 Here is the folder structure:
 
 - dataset: Dataset used for our model training
-- model: Contains saved model (H5 File)
+- saved_models: Contains saved model (H5 File)
 - opencv: Contains haarcascades XML documents
 - images_dataset: Dataset used for our model training
 - test_images: Contains images for data exploration
