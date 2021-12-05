@@ -5,9 +5,8 @@ In this data science and deep learning project, we classify and recognize faces 
 Here is the folder structure:
 
 - dataset: Dataset used for our model training
-- saved_models: Contains saved model (H5 File)
 - opencv: Contains haarcascades XML documents
-- images_dataset: Dataset used for our model training
+- saved_models: Contains saved model (H5 File)
 - test_images: Contains images for data exploration
 
 Technologies used in this project:
@@ -15,7 +14,7 @@ Technologies used in this project:
 2. Numpy 
 3. OpenCV
 4. Matplotlib & Seaborn
-5. Tensorflow for model building
+5. Tensorflow
 6. Convolutional Neural Netwrok
 7. Jupyter notebook, PyCharm as IDE
 
